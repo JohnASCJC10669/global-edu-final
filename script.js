@@ -18,7 +18,7 @@ const analytics = getAnalytics(app);
 
 
 
-console.log("hi ")
+
 
 
 
